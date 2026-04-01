@@ -1,0 +1,7 @@
+{
+  "name": "JLS Plumbing & Mechanical",
+  "description": "24/7 professional plumbing and mechanical services. Fast response, licensed experts, and guaranteed workmanship.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
